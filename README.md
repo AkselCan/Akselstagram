@@ -30,11 +30,18 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
+## Video Walkthrough | Pre-Deadline
 
 Here's a walkthrough of implemented user stories:
 
 <img src='https://user-images.githubusercontent.com/89808958/161367090-2038809f-f594-4859-8fe5-b825d0bf2f7a.gif' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Video Walkthrough | Post-Deadline Update
+
+<img src= https://user-images.githubusercontent.com/89808958/161370642-2ac839d0-9c50-4756-bd0b-9242acffae69.gif
+ />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
